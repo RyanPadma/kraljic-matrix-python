@@ -23,7 +23,7 @@ This project automates Kraljic Matrix analysis using Python and pandas, integrat
 - matplotlib
 
 Install all dependencies with:
-
+pip install -r requirements.txt
 
 ---
 
