@@ -92,10 +92,15 @@ Place the following CSV files in the project directory:
 
 ##  🧭 Kraljic Matrix Quadrants
 
-- 🟧 **Strategic:** High risk, high revenue impact
-- 🟩 **Leverage:** Low risk, high revenue impact
-- 🟥 **Bottleneck:** High risk, low revenue impact
-- 🟦 **Non-Critical:** Low risk, low revenue impact
+# 🧭 Kraljic Matrix – Supplier vs Product Strategy Comparison
+
+| **Quadrant** | **Supplier Perspective** | **Product Perspective** |
+|--------------|-------------------------|-------------------------|
+| **🟧 Strategic (High Risk, High Impact)** | - Build **long-term partnerships & alliances**.<br>- Engage in **joint development & innovation**.<br>- **Monitor supplier health** & mitigate dependence risk.<br>- Consider **dual sourcing or vertical integration**. | - Secure **long-term contracts & guaranteed supply**.<br>- **Collaborate in design & innovation** with suppliers.<br>- Maintain **inventory buffers** for risk mitigation.<br>- **Redesign products** to reduce dependence where possible. |
+| **🟩 Leverage (Low Risk, High Impact)** | - Use **competitive bidding, tenders, and auctions**.<br>- **Consolidate volumes** to maximize bargaining power.<br>- Maintain **flexible contracts** to switch suppliers easily.<br>- **Benchmark & renegotiate prices** regularly. | - Focus on **cost optimization & negotiation**.<br>- **Aggregate demand** to get bulk discounts.<br>- Use **multiple sourcing** to maintain flexibility.<br>- Drive **product standardization** to expand sourcing options. |
+| **🟥 Bottleneck (High Risk, Low Impact)** | - Maintain **good relationships**; be a "preferred customer".<br>- Hold **safety stock or buffer inventory**.<br>- Search for **alternative suppliers or substitute technologies**.<br>- **Support supplier capability improvement** if critical. | - Keep **inventory buffers or consignment stock**.<br>- Seek **design changes or product substitutions** to reduce dependency.<br>- Use **supplier-managed inventory (SMI)** for reliability. |
+| **🟦 Non-Critical (Low Risk, Low Impact)** | - **Automate procurement** via e-catalogs or e-procurement.<br>- **Long-term contracts with few suppliers** to simplify management.<br>- Consider **outsourcing procurement** or VMI. | - Simplify purchasing with **blanket POs or catalog buying**.<br>- **Standardize products** to reduce complexity.<br>- Focus on **process efficiency & TCO** rather than price only. |
+
 
 
 ---
